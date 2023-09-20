@@ -7,3 +7,9 @@ Functions and calculations done on jupyter notebook for easier value assignment
 1. add your own data
 2. run notebook or make new notebooks
 
+## Requirements
+
+- python 3.7 or later
+- numpy
+- pandas
+
